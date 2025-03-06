@@ -1,7 +1,8 @@
 # Atividade - Linguagem de Programação
 
 Questões de lógica de programação desenvolvidas em Java
-**Matéria :** Linguagem de Programação
+
+**Disciplina :** Linguagem de Programação
 
 ![enter image description here](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/137/2024/08/logo-fatec_zona_leste.png)
 
